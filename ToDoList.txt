@@ -1,0 +1,10 @@
+To do list:
+-Make the board with sprites from the store
+-Choose and add a spaceship sprite 
+-Manage the spaceship movement
+-Add the asteroid sprite
+-Asteroid bouncing against the walls
+-Add one more asteroid each 5 seconds near to the walls
+-Crashing asteroids = lose
+-Add background
+ 
